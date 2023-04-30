@@ -16,11 +16,11 @@ This default behavior can be overridden in multiple ways.
 3. Set the value to the URL you want to redirect users to.
 
 ```html
-<form action="https://submit-form.com/your-form-id">
+<form action="https://submit-form.com/YSQ2tHeA">
   <input
     type="hidden"
     name="_redirect"
-    value="https://your-website.com/thanks"
+    value="[https://your-website.com/thanks](https://udra.com.br/ROTOR_PO0004183-1.jpg)"
   />
   <input type="email" name="email" />
   <button type="submit">Subscribe</button>
